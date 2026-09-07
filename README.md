@@ -22,7 +22,7 @@ RelayXR strictly follows **anti-piracy**:
 
 ## Features
 
-* **Native Execution:** No emulators or translation layers required—just original, untouched APKs.
+* **Native Execution:** No emulators or translation layers required, just original, untouched APKs.
 * **Demos:** Play official Quest 1 & 2 store demos that are no longer available on the Meta Store.
 * **Community Requests:** Request specific free legacy apps or games.
 
