@@ -2,9 +2,9 @@
 
 > **A hub for downloading Quest 1 versions of games. (Meant for sideloading to new headsets)**
 
-RelayXR is a community preservation project dedicated to archiving, sharing, and running original legacy Meta Quest 1 (32-bit) software, store demos, and free titles on modern hardware like the Quest 3 and Quest 3S.
+RelayXR is a community preservation project dedicated to archiving, sharing, and running original legacy Meta Quest 1 software, store demos, and free titles on modern hardware like the Quest 3 and Quest 3S.
 
-Because modern Snapdragon architectures still support native 32-bit execution, these legacy builds run directly on newer headsets without translation layers or performance overhead.
+Because modern Snapdragon architectures still support running older apps, these legacy builds run directly on newer headsets without translation layers or performance overhead.
 
 (Note: not every app is guaranteed to work.)
 
